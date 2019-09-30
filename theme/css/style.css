@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+  align-items: center;
+  justify-content: space-around;
+  display: flex;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.img-thumbnail {
+  max-height: 100%;
+  max-width: 100%;
+}
+
+a {
+  color: #f16913;
+}
+
+a:hover {
+  color: #d94801;
+}
