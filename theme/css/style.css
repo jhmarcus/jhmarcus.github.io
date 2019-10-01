@@ -13,9 +13,13 @@ body {
 }
 
 a {
-  color: #f16913;
+  color: #31a354;
 }
 
 a:hover {
-  color: #d94801;
+  color: #006837;
+}
+
+code{
+  color: black;
 }
